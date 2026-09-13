@@ -1,31 +1,7 @@
 # Stock-Market-Analysis
 # 📈 Stock Market Analysis Report
 
-<div align="center">
-  <!-- Premium Native CSS Animated Header Card -->
-  <div style="background: linear-gradient(135deg, #0f172a 0%, #0369a1 100%); padding: 35px; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.4); border: 2px solid #38bdf8; max-width: 680px; margin: 20px auto; overflow: hidden;">
-    <h1 style="color: #fef08a; margin: 0 0 10px 0; font-family: 'Fira Code', monospace; font-size: 26px; text-shadow: 0 0 12px rgba(254,240,138,0.4);">📊 Time-Series Stock Market Analyzer</h1>
-    
-    <!-- CSS Typing Animation -->
-    <div style="display: inline-block; font-family: 'Fira Code', monospace; font-weight: 600; font-size: 15px; color: #38bdf8; border-right: 2px solid #38bdf8; white-space: nowrap; overflow: hidden; width: 0; animation: typing 4s steps(45, end) infinite alternate;">
-      OHLC Trends | Historical Volatility | Portfolio Drawdowns
-    </div>
-    
-    <p style="color: #cbd5e1; margin: 15px 0 0 0; font-family: system-ui, sans-serif; font-size: 14px; line-height: 1.6;">
-      A comprehensive data science framework leveraging Python to inspect historical daily stock data. Cleans sequence timelines, extracts statistical volatility matrices, and computes rolling financial indicator models.
-    </p>
-  </div>
-</div>
 
-<style>
-  @keyframes typing {
-    0% { width: 0; }
-    75% { width: 100%; }
-    100% { width: 100%; }
-  }
-</style>
-
----
 
 ## ⚡ Core Pipeline Features
 
